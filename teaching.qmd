@@ -1,0 +1,65 @@
+---
+title: "Teaching"
+---
+
+I regularly teach wildlife students and professionals about data-science tools.
+
+## Workshops
+
+Beginner distance sampling: abundance estimation in R. Workshop, instructor. WY and CO Chapters of The Wildlife Society. Fort Collins, CO. Mar 2025.
+
+Beginner distance sampling: abundance estimation in R. Workshop, instructor. Virtual. Nov 2024.
+
+A basic introduction to Program R. Workshop, instructor. WY Chapter of The Wildlife Society. Laramie, WY. Mar 2023. [website](https://sites.google.com/wyo.gov/intror-laramie2023)
+
+A gentle introduction to Bayesian statistics for wildlife scientists. Workshop, instructor. WY Chapter of The Wildlife Society. Jackson, WY. Apr 2022. [website](https://sites.google.com/wyo.gov/workshops-introbayes)
+
+Statistical methods for estimating abundance in ecology. Workshop, instructor. Wyoming EPSCoR Program. Virtual. Nov 2021. [website](https://github.com/gbarrile/AbundanceWorkshop)
+
+An applied introduction to Bayesian statistics. Workshop, instructor. WEST Webinar Workshop Series in Statistics. Virtual. Oct 2020.
+
+Ecological sampling and study design. Workshop, instructor. WEST Webinar Workshop Series in Statistics. Virtual. June 2020.
+
+Ecological sampling and study design. Workshop, instructor. Colorado/Wyoming Chapter of American Fisheries Society. Laramie, WY. Feb 2020.
+
+Distance sampling: conventional and hierarchical methods for abundance in R. Workshop, instructor. Joint Annual Meeting of the Arizona and New Mexico Chapters of The Wildlife Society and American Fisheries Society. Prescott, AZ. Jan 2020.
+
+Ecological sampling and study design. Workshop, instructor. 2019 Joint Annual Conference of The Wildlife Society and American Fisheries Society. Reno, NV. Sep 2019.
+
+An applied introduction to Bayesian statistics for ecologists. Workshop, instructor. 2019 Joint Annual Conference of The Wildlife Society and American Fisheries Society. Reno, NV. Sep 2019.
+
+Ecological sampling and study design. Workshop, instructor. WY Chapter of The Wildlife Society. Laramie, WY. Nov 2018.
+
+Advanced R. Workshop, lead instructor. WY Chapter of The Wildlife Society. Jackson, WY. Dec 2017.
+Distance sampling: conventional and hierarchical methods for abundance in R. Workshop, instructor. 22nd Biennial Conference on the Biology of Marine Mammals. Halifax, Nova Scotia. Oct 2017.
+
+Distance sampling: conventional and hierarchical methods for abundance in R. Workshop, instructor. 24th Annual Conference of The Wildlife Society. Albuquerque, NM. Sep 2017.
+
+Program R: a basic introduction. Workshop, lead instructor. WY Chapters of The Wildlife Society and Society for Range Management. Cody, WY. Nov 2016.
+
+Program R: a basic introduction. Workshop, lead instructor. WY Chapter of The Wildlife Society and WY Landscape Conservation Initiative. Lander, WY. Dec 2015.
+
+R you ready?: an introduction to Program R. Workshop, assistant instructor. University of Wyoming, INBRE Bioinformatics Bootcamp. Laramie, WY. Aug 2015.
+
+Putting biology on the map: an intro to mapping wildlife habitat in ArcGIS. Workshop, lead instructor. University of Wyoming, INBRE Bioinformatics Bootcamp. Aug 2015.
+
+Introduction to GIS with management applications. Workshop, assistant instructor. WY Chapter and CMPS Section of The Wildlife Society. Sheridan, WY. Aug 2014.
+
+Application of GIS to wildlife management: basic use and modeling bison habitat. Workshop, lead instructor. Utah State University, Student Chapter of The Wildlife Society. Feb 2011.
+
+Application of GIS to wildlife management: basic use and modeling wood duck habitat. Workshop, lead instructor. Utah State University, Student Chapter of The Wildlife Society. Apr 2010.
+
+
+## University Coursework
+
+Bayesian statistics in ecology. Joint student/professional reading group, co-organizer. University of Wyoming, Dept. of Zoology & Physiology and WEST, Inc. Spring 2018.
+
+Basic spatial analysis in Program R. Graduate course on Program R, guest lecturer. University of Wyoming, Dept. of Zoology & Physiology. Fall 2015.
+
+Applied spatial analysis/statistics for natural resource management. Graduate course, graduate teaching assistant. University of Wyoming, Program in Ecology. Spring 2014.
+
+Mammalogy. Undergraduate and graduate course, graduate teaching assistant. University of Wyoming, Dept. of Zoology & Physiology. Fall 2012, two sections.
+
+Wildland animal ecology and identification. Undergraduate course, undergraduate teaching assistant. Utah State University, Dept. of Wildland Resources. Fall 2010.
+
+Intro to Geographic Information Sciences. Undergraduate course, undergraduate teaching assistant. Utah State University, Dept. of Watershed Sciences. Fall 2009.

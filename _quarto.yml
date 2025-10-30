@@ -3,15 +3,16 @@ project:
   output-dir: docs
   
 website:
-  title: "JDC"
+  title: "Jason D. Carlisle"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - about.qmd
       - publications.qmd
+      - teaching.qmd
 
 format:
   html:
     theme: cosmo
-    css: styles.css
     toc: true
