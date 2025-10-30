@@ -1,0 +1,49 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+Allen, S.E., P. Van Wick, D.L. Nelson, **J.D. Carlisle**, J. Jennings, K. Buxbaum, A.B. Smith, J.D. Holbrook, and H. Shamon. 2025. [Serosurveillance and parasite survey of swift foxes (*Vulpes velox*) from Southeastern Wyoming, USA]( https://doi.org/10.7589/JWD-D-25-00064). Journal of Wildlife Diseases X:X.
+
+Hashem, B., M. Gaston, **J.D. Carlisle**, and P. Van Wick. 2024. [Comparison of hand-reared pronghorn (*Antilocapra americana*) milk replacer compositions and growth rates](https://doi.org/10.1638/2023-0112). Journal of Zoo and Wildlife Medicine 55(4):1056-1061.
+
+**Carlisle, J.D.**, K.T. Smith, J.L. Beck, M.A. Murphy, and A.D. Chalfoun. 2024. [Beyond overlap: considering habitat preference and fitness outcomes in the umbrella species concept](https://doi.org/10.1111/acv.12899). Animal Conservation 27(2):212-225.
+
+Rhea, A.M., **J.D. Carlisle**, and A.D. Chalfoun. 2022. [Intrabrood variation in nestling mass among three sagebrush-associated songbirds](https://doi.org/10.1676/21-00047). The Wilson Journal of Ornithology 134(2):345-351.
+
+Hays, Q.R., A.T. Tredennick, **J.D. Carlisle**, D.P. Collins, and S.A. Carleton. 2021. [Spatially explicit assessment of sandhill crane exposure to potential transmission line collision risk](https://doi.org/10.1002/jwmg.22100). The Journal of Wildlife Management 85(7):1440-1449.
+
+**Carlisle, J.D.**, and A.D. Chalfoun. 2020. [The abundance of greater sage-grouse as a proxy for the abundance of sagebrush-associated songbirds in Wyoming, USA](https://doi.org/10.5751/ACE-01702-150216). Avian Conservation and Ecology 15(2):16.
+
+Hagen, C.A., **J.D. Carlisle**, F.E. Hornsby, M.E. Houts, L.L. McDonald, and D.C. Pavlacky Jr. 2020. [Multiscale occupancy of the lesser prairie-chicken: the role of private lands in conservation of an imperiled bird](https://doi.org/10.5751/ACE-01672-150217). Avian Conservation and Ecology 15(2):17.
+
+Bedrosian, G., **J.D. Carlisle**, B. Woodbridge, J.R. Dunk, Z.P. Wallace, J.F. Dwyer, R.E. Harness, E.K. Mojica, G.E. Williams, and T. Jones. 2020. [A spatially explicit model to predict the relative risk of golden eagle electrocutions in the Northwestern Plains, USA](https://doi.org/10.3356/0892-1016-54.2.110). Journal of Raptor Research 54(2):110-125.
+
+Hightower, J.N., **J.D. Carlisle**, and A.D. Chalfoun. 2018. [Nest mortality of sagebrush songbirds due to a severe hailstorm](https://doi.org/10.1676/17-025.1). The Wilson Journal of Ornithology 130(2):561–567.
+
+**Carlisle, J.D.**, D.A. Keinath, S.E. Albeke, and A.D. Chalfoun. 2018. [Identifying holes in the greater sage-grouse conservation umbrella](https://doi.org/10.1002/jwmg.21460). The Journal of Wildlife Management 82(5):948–957.
+
+**Carlisle, J.D.**, A.D. Chalfoun, K.T. Smith, and J.L. Beck. 2018. [Nontarget effects on songbirds from habitat manipulation for greater sage-grouse: implications for the umbrella species concept](https://doi.org/10.1650/CONDOR-17-200.1). The Condor: Ornithological Applications 120(2):439–455.
+
+**Carlisle, J.D.**, L.E. Sanders, A.D. Chalfoun, and K.G. Gerow. 2018. [Raptor nest-site use in relation to the proximity of coalbed-methane development](https://doi.org/10.32800/abc.2018.41.0227). Animal Biodiversity and Conservation 41(2):227–243.
+
+**Carlisle, J.D.**, D.R. Stewart, and A.D. Chalfoun. 2017. [An invertebrate ecosystem engineer under the umbrella of sage-grouse conservation](https://doi.org/10.3398/064.077.0406). Western North American Naturalist 77(4):450–463.
+
+
+## Selected Technical Reports
+
+**Carlisle, J.D.**, W.B. McDonald, T. Harvey, V.H. Zero, K. Klaphake, T.J. Prebyl, and C.W. LeBeau. 2021. White-tailed prairie dog occupancy in the Pinedale Anticline Project Area: 2020 annual report. Prepared for Pinedale Anticline Project Office, Wyoming Game and Fish Department, and U.S. Bureau of Land Management, Pinedale, Wyoming. Prepared by Western EcoSystems Technology, Inc. (WEST), Laramie, Wyoming.
+
+Stucker, J.H., **J.D. Carlisle**, D. Pham, and W.P. Erickson. 2018. Icebreaker Wind aerial waterbird survey report: October 16, 2017 - May 29, 2018, Cuyahoga County, Ohio. Prepared for Icebreaker Windpower, Inc., Cleveland, Ohio. Prepared by Western EcoSystems Technology, Inc. (WEST), Golden Valley, Minnesota.
+
+
+## Non-technical Writing
+
+Stewart, C., and **J. Carlisle**. 2024. Changing of the seasons: managing Wyoming's big game populations. Wyoming Wildlife Jan 2024:24-31.  
+
+**Carlisle, J.D.** 2015. Where have all the naturalists gone? Newsletter of the Wyoming Chapter of The Wildlife Society 42(1):7-8.
+
+Gamo, R.S., **J.D. Carlisle**, J.L. Beck, J.A.C. Bernard, and M.E. Herget. 2013. Greater sage-grouse in Wyoming: an umbrella species for sagebrush dependent wildlife. The Wildlife Professional 7:56–59.
+
+**Carlisle, J.D.** 2012. Species distribution models and you. Newsletter of the Wyoming Chapter of The Wildlife Society 39(1):13-15.
