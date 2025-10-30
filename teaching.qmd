@@ -2,8 +2,6 @@
 title: "Teaching"
 ---
 
-I regularly teach wildlife students and professionals about data-science tools.
-
 ## Workshops
 
 Beginner distance sampling: abundance estimation in R. Workshop, instructor. WY and CO Chapters of The Wildlife Society. Fort Collins, CO. Mar 2025.
