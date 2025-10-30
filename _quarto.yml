@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Jason D. Carlisle"
+  title: "Jason Carlisle"
   navbar:
     left:
       - href: index.qmd
@@ -14,5 +14,5 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     toc: true
