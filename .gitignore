@@ -3,8 +3,11 @@
 .RData
 .Ruserdata
 *.Rproj
+README_files
+README.html
 
 docs/
 /.quarto/
 /_site/
 .Rproj.user
+
