@@ -2,4 +2,4 @@
 title: "Jason D. Carlisle"
 ---
 
-I am a quantitative biologist with expertise in wildlife ecology, GIS, and statistics. I have worked with a variety of government agencies, industry, university, and conservation organizations on the collection and analysis of ecological data to support science-based wildlife management.
+I am a Quantitative Biologist in the Science, Research, and Analytical Support Unit of the Wyoming Game and Fish Department. I use modern data-science tools to support the science-based management and conservation of wildlife.
