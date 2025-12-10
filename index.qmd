@@ -2,4 +2,4 @@
 title: "Jason D. Carlisle"
 ---
 
-I am a Quantitative Biologist in the Science, Research, and Analytical Support Unit of the Wyoming Game and Fish Department. I use modern data-science tools to support the science-based management and conservation of wildlife.
+I am a Quantitative Biologist in the Science, Research, and Analytical Support Unit in the Wildlife Division of the Wyoming Game and Fish Department. I use modern data-science tools to support the science-based management and conservation of wildlife.
