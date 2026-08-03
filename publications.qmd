@@ -4,7 +4,7 @@ title: "Publications"
 
 ## Journal Articles
 
-Shapiro, J.S., **J.D. Carlisle**, S.E. Albeke, G.M. Barrile, B.S. Robb, and J.A. Merkle. *In press*. Modernizing environmental data management for ecological research, management, and conservation at regional scales. Wildlife Society Bulletin.
+Shapiro, J.S., **J.D. Carlisle**, S.E. Albeke, G.M. Barrile, B.S. Robb, and J.A. Merkle. 2026. [Modernizing environmental data management for ecological research, management, and conservation at regional scales](https://doi.org/10.1002/wsb.70046). Wildlife Society Bulletin.
 
 Allen, S.E., P. Van Wick, D.L. Nelson, **J.D. Carlisle**, J. Jennings, K. Buxbaum, A.B. Smith, J.D. Holbrook, and H. Shamon. 2026. [Serosurveillance and parasite survey of swift foxes (*Vulpes velox*) from Southeastern Wyoming, USA]( https://doi.org/10.7589/JWD-D-25-00064). Journal of Wildlife Diseases 62(1):126-134.
 
