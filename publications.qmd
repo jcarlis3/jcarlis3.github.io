@@ -42,7 +42,7 @@ Hightower, J.N., **J.D. Carlisle**, and A.D. Chalfoun. 2018. [Nest mortality of 
 
 **Carlisle, J.D.**, W.B. McDonald, T. Harvey, V.H. Zero, K. Klaphake, T.J. Prebyl, and C.W. LeBeau. 2021. White-tailed prairie dog occupancy in the Pinedale Anticline Project Area: 2020 annual report. Prepared for Pinedale Anticline Project Office, Wyoming Game and Fish Department, and U.S. Bureau of Land Management, Pinedale, Wyoming. Prepared by Western EcoSystems Technology, Inc. (WEST), Laramie, Wyoming.
 
-Stucker, J.H., **J.D. Carlisle**, D. Pham, and W.P. Erickson. 2018. Icebreaker Wind aerial waterbird survey report: October 16, 2017 - May 29, 2018, Cuyahoga County, Ohio. Prepared for Icebreaker Windpower, Inc., Cleveland, Ohio. Prepared by Western EcoSystems Technology, Inc. (WEST), Golden Valley, Minnesota.
+Stucker, J.H., **J.D. Carlisle**, D. Pham, and W.P. Erickson. 2018. [Icebreaker Wind aerial waterbird survey report: October 16, 2017 - May 29, 2018, Cuyahoga County, Ohio](https://tethys.pnnl.gov/publications/icebreaker-wind-aerial-survey-waterbird-report). Prepared for Icebreaker Windpower, Inc., Cleveland, Ohio. Prepared by Western EcoSystems Technology, Inc. (WEST), Golden Valley, Minnesota.
 
 ## Non-technical Writing
 
