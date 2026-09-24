@@ -11,3 +11,5 @@ docs/
 /_site/
 .Rproj.user
 
+
+**/*.quarto_ipynb
